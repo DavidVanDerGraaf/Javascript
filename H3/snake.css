@@ -1,0 +1,21 @@
+html{
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+body {
+    text-align: center;
+    font-family: "Comic Sans MS";
+}
+
+img {
+    border: 0px;
+}
+
+#pics {
+    width: 900px;
+    height: 900px;
+    border: solid 1px black;
+    font-size: 0px;
+    margin: auto;
+}
